@@ -1,0 +1,13 @@
+# Report stays private
+industry_report.pdf
+*.pdf
+
+# Never commit medical data or screenshots of scans
+*.dcm
+IM_*
+DICOM*/
+Figure_*.png
+*.png
+
+__pycache__/
+.ipynb_checkpoints/
